@@ -891,3 +891,11 @@ yeahmobi.com, 5135347, Reseller
 media.net, 8CUO7P3WK, RESELLER
 App-stock.com,256917,RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
+google.com, pub-5454875279695201, DIRECT, f08c47fec0942fa0
+anymanager.io, A4739, DIRECT
+pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158738, RESELLER, 5d62403b186f2ace
+appnexus.com, 2764, RESELLER
+smartadserver.com, 3232, RESELLER
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
